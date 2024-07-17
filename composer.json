@@ -1,0 +1,7 @@
+{
+    "name": "heath/aisq",
+    "require": {
+        "prewk/xml-string-streamer": "^1.2",
+        "nelexa/zip": "^4.0"
+    }
+}
